@@ -1,1 +1,1 @@
-# battleship-aliens-humans
+# Battleship (Aliens vs. Humans)
